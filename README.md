@@ -1,1 +1,1 @@
-# gp
+console.log("hello world");
